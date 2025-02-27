@@ -61,6 +61,7 @@ There are a small handful of Addons published under the *Ravenous Addons* umbrel
 - [Rematch](https://www.curseforge.com/wow/addons/rematch)
 - [SilverDragon - Rare Scanner](https://www.curseforge.com/wow/addons/silver-dragon)
 - [TomTom](https://www.curseforge.com/wow/addons/tomtom)
+- [UFO](https://www.curseforge.com/wow/addons/ufo-universal-flyouts)
 - [World Quest Tracker](https://www.curseforge.com/wow/addons/world-quest-tracker)
 
 ## ☕️ Get in touch
